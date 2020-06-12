@@ -1,6 +1,6 @@
 {
     "update": {
-       "assignee": [{"set" : {"name": null }}],     
+       "assignee": [{"set" : {"name": "sp.testing2018" }}],     
 	   "comment": [
          {
             "add": {
